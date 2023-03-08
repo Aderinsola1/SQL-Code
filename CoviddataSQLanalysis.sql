@@ -7,7 +7,7 @@ order by 3,4
 --FROM CovidVaccinations
 --order by 3,4
 
---Select Data that I am goig to be using
+--Select the Data I am going to be using
 
 
 SELECT Location, date, total_cases, new_cases, total_deaths, population
